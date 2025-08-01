@@ -1,0 +1,22 @@
+# 忽略 node_modules 目录
+node_modules/
+
+# 忽略环境文件
+.env
+.env.*
+
+# 忽略日志文件
+*.log
+logs/
+
+# 忽略编辑器设置
+.vscode/
+.idea/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略构建产物
+dist/
+build/
