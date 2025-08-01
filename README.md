@@ -1,1 +1,0 @@
-# stamp-exchange-backend
